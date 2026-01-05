@@ -1,0 +1,22 @@
+We would like to do MS for qualitative protein identification and sequence validation of RPS19 protein in 16 ribosome samples from human.
+All the samples have the buffer composition
+20 mM HEPES-KOH pH 7.6, 100 mM KOAc, 10 mM Mg(OAc)2, 10 mM NH4OAc and 1 mM DTT
+The labeling on the tubes are as follows
+ 
+Sample 1 : L64P_Control_Peak1
+Sample 2 : L64P_Control_Peak2
+Sample 3 : L64P_Control_Peak3
+Sample 4 : L64P_Control_Peak4
+Sample 5 : L64P_Mutant_Peak1
+Sample 6 : L64P_Mutant_Peak2
+Sample 7 : L64P_Mutant_Peak3
+Sample 8 : L64P_Mutant_Peak4
+Sample 9 : R62W_Control_Peak1
+Sample 10 : R62W _Control_Peak2
+Sample 11: R62W _Control_Peak3
+Sample 12: R62W _Control_Peak4
+Sample 13: R62W _Mutant_Peak1
+Sample 14: R62W _Mutant_Peak2
+Sample 15: R62W _Mutant_Peak3
+Sample 16: R62W _Mutant_Peak4
+
