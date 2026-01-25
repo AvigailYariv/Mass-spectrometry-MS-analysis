@@ -1,0 +1,33 @@
+======================================================================
+RIBOSOMAL PROTEIN COVERAGE ANALYSIS - SUMMARY REPORT
+======================================================================
+
+Total unique ribosomal proteins detected: 162
+Number of samples analyzed: 13
+Samples: sample1, sample10, sample11, sample2, sample3, sample4, sample5, sample6, sample7, sample8, sample9, sample12, sample13
+
+Proteins detected in all samples: 0
+Average detection rate across proteins: 50.2%
+
+Coverage Statistics (across all proteins):
+  Mean coverage: 53.3%
+  Median coverage: 49.7%
+  Min coverage: 2.0%
+  Max coverage: 100.0%
+
+Per-Sample Statistics:
+----------------------------------------------------------------------
+sample1        :  77 proteins | Cov:  33.3% ±  77.0%
+sample10       :  95 proteins | Cov:  48.3% ±  90.0%
+sample11       :  81 proteins | Cov:  38.8% ±  83.0%
+sample2        :  90 proteins | Cov:  37.6% ±  77.0%
+sample3        :  77 proteins | Cov:  34.7% ±  64.0%
+sample4        :  90 proteins | Cov:  46.8% ±  79.0%
+sample5        :  96 proteins | Cov:  47.1% ±  82.0%
+sample6        :  98 proteins | Cov:  50.2% ±  94.0%
+sample7        :  79 proteins | Cov:  38.9% ±  85.0%
+sample8        :  91 proteins | Cov:  41.4% ±  77.0%
+sample9        :  95 proteins | Cov:  50.6% ±  86.0%
+sample12       :  32 proteins | Cov:  18.9% ±  41.0%
+sample13       :  57 proteins | Cov:  80.1% ±  66.0%
+======================================================================
